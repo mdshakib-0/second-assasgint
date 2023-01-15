@@ -1,0 +1,51 @@
+
+.title{
+    color:  #131313;
+    text-align: left;
+   
+}
+
+.title-tag{
+    color: #131313;
+    text-align: center;
+}
+.paragrap{
+    color: #727272;
+    font-weight: 400;
+     font-size: 16px;
+     line-height: 26px;
+     text-align: center;
+}
+.button{
+ width: 180px;
+height: 64px;
+left: 870px;
+top: 463px;
+
+background: #FF900E;
+border-radius: 8px;
+}
+.contan{
+    text-align: center;
+    
+}
+.header{
+    background-color: pink;
+}
+.img{
+width: 100%;
+height: 75%;
+top: 577px;
+border-radius: 8px;
+
+}
+nav ul {
+    display: flex;
+    list-style: none;
+    justify-content: right;
+    gap: 26px;
+}
+nav{
+    margin: 0 200px;
+    text-align: center;
+}
